@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func variables() {
 	var age int = 21
 	name := "Go"
 	const pi = 3.14
